@@ -31,6 +31,8 @@
 <h3 align="left">Support:</h3>
 <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huseyintopgul&show_icons=true&locale=en&layout=compact" alt="huseyintopgul" height="150" width="600" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huseyintopgul&theme=dracula&hide_border=false&show_icons=true&locale=en&layout=compact" alt="huseyintopgul" height="150" width="550" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=huseyintopgul&show_icons=true&locale=en" alt="huseyintopgul" height="250" width="550" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huseyintopgul&theme=dracula&hide_border=false" alt="huseyintopgul" height="250" width="550" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=huseyintopgul&theme=dracula&hide_border=false&show_icons=true&locale=en" alt="huseyintopgul" height="250" width="550" /></p>
